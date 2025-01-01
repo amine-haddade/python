@@ -1,0 +1,10 @@
+s={1,2,34,1,4,5,7,8,9,5,2}
+print(34 in s)
+s.add(101010101)
+print(s)
+s.update([10,10,2,55,55,2,52,562,562])
+print(s)
+s.remove(55)
+print(s)
+s.pop()
+print(s)

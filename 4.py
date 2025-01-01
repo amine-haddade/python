@@ -1,0 +1,11 @@
+print("donner la valeur de nombre 1")
+X=int(input())
+print("donner la valeure de nombre 2")
+Y=int(input())
+print("________avent le permutation__________")
+print(X)
+print(Y)
+print("_________apres le permutation__________")
+X,Y=Y,X
+print("la valeure de nombre de 1 est",X)
+print("lavaleure de nombre de 2 est",Y)
